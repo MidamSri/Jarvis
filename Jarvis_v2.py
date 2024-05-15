@@ -5,6 +5,8 @@ import pyttsx3
 
 #All intital dictionaries and lists
 
+#####Checking if vim commits work or not#####
+
 #Used for only texts containing the 5W and 1H. Format = Question : answer
 Questions = {'what is the time': datetime.time()}
 
